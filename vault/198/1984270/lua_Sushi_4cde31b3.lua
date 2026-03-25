@@ -1,0 +1,33 @@
+-- Made by f1uxin, read the (README) file if you want to see more info, and enjoy!
+-- P.S. If there is no README file, this file has most likely been stolen the creator of these files is @𓆩𝙁𝟙𝙪𝙭𝙞𝙣𓆪 / username : "f1uxin", nobody else.
+-- If you want to redistribute/share these files, read the README TXT for more info.
+-- Feel free to join my (F1uxins) official server: https://discord.gg/NmmpgnAgen
+-- (We show everything about piracy, including manifest & lua stuff also known as the "Steam method", all for free, Nobody should need to pay for info that is spread and shown for free.)
+
+addappid(1984270)
+addappid(3524390)
+addappid(3524400)
+addappid(3524240,0,"f06dc8a525a2fb5e03453da570b80915bd7c02daae714ac854c86283a2bc4e18")
+--setManifestid(3524240,"6662609926555286405")
+addappid(3524250,0,"b6c098c1cdd8687907373e2a6e59446445aafca92e10fe4da2c59481f0448f24")
+--setManifestid(3524250,"6473051103911318870")
+addappid(3524300,0,"0ae80de6e7b2f3ec166de6a98b3f6a018af9fba6c54f144916d1f4ab07671b2c")
+--setManifestid(3524300,"2166254318281553691")
+addappid(3524310,0,"5f8a85a36740263fe78affe346fd7b0c18eb7ad2a51537a2c875f64fa080cbf1")
+--setManifestid(3524310,"8397653365747062005")
+addappid(3524320,0,"0da086161abea2f6ce0863a530fefc41ac12993fb4308ff16301926398803a27")
+--setManifestid(3524320,"2937343108483999987")
+addappid(3524330,0,"2358d5ff200cefb1eef6f77277f04089a01daaea4418cd48d530b4de3fe53f61")
+--setManifestid(3524330,"9011286650463550421")
+addappid(3524340,0,"5441f08ccf7ebad6314bac9d071ba47a41e709f4000e121004752959138bb2dc")
+--setManifestid(3524340,"9171927283280801773")
+addappid(3524350,0,"388eb5d2862631b327cd83e312bc69e3f14ecf6087a6a2ec0860f20df764139d")
+--setManifestid(3524350,"3574787827120316187")
+addappid(3524360,0,"9ac71aa654d8726aaf514236b138ac5c075854dd8f33abbfeb1b4316302c7f7b")
+--setManifestid(3524360,"9075694746551360982")
+addappid(3524370,0,"a20f41adefa6edd0b1a0644a6e359437cc9476624a4e80b6b31d90c893fb3577")
+--setManifestid(3524370,"7484848285842310833")
+addappid(3524380,0,"4ef7dc743aea30597adbffc2215a364e119c16ab160dc2f20ae358296d12f4bf")
+--setManifestid(3524380,"9165147238607416395")
+addappid(1984271,0,"b0aa8ddfef2996e3122b0bda1d02f7ceb28f608ac8c1d853e6793790aaab8860")
+--setManifestid(1984271,"238061488930819289")
