@@ -1,0 +1,12 @@
+addappid(1880470)
+addappid(1880471, 1, "c818b70302c28b1731981e757f019f3380a7845825c820f4565eca92f3ef0c35")
+setManifestid(1880471, "4551161629555784631", 0)
+addappid(2639321, 1, "018516662e4241455227a3355bb0a7276393dfade419bc47b2a720426f1f3cee")
+setManifestid(2639321, "5316043678982966805", 0)
+addappid(2639322, 1, "c2856c7fa9fd4052dc4791fced78acb7c71a1f04495796571101c2b49324481f")
+setManifestid(2639322, "2269711873527449289", 0)
+
+--[[
+This file Generated using fares.top Website 
+-----> join discord Server : https://discord.gg/steamgames 
+]]
