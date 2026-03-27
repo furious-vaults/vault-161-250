@@ -1,3 +1,0 @@
-addappid(1754688)
-addappid(1754688, 1, "3e88a9d47ab78f7bcdbeccd14956e5d593fa48195b16cfeff5ab3dbfe31531a0")
-setManifestid(1754688, "5712629861566771067", 0)
